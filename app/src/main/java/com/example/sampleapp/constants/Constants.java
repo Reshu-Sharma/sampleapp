@@ -1,4 +1,4 @@
-package com.example.sampleapp.Constants;
+package com.example.sampleapp.constants;
 
 public class Constants {
 
